@@ -1,2 +1,3 @@
 # firstRepo
-This is my first GITRepo
+This is my first GIT Repo
+user:AryaanShaikh
